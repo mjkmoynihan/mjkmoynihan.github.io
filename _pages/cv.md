@@ -17,22 +17,26 @@ Education
 
 Work experience
 ======
-* 2017: Computer Vision Engineer
-  * HP Inc
+* 2017: HP Inc 
+  * Computer Vision Engineer
   * Duties included: Designing and maintaining computer vision solutions for product line quality control
 
-* Summer 2019: Research Intern 
-  * Apple Inc
+* Summer 2019: Apple Inc 
+  * PhD Research Intern
   * Duties included: Supporting research and development for ARKit features
   
-Skills
+Expertise
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Computer Vision, Machine Vision
+* Deep Learning, AI, Machine Learning
+* Photogrammetry, SLAM, 3D Reconstruction
+* AR/VR/XR
+  
+Tools and Languages
+======
+* C++, C#, Python, Bash, Matlab
+* Pytorch, Docker, Git
+* Blender, Unity
 
 Publications
 ======
@@ -40,18 +44,3 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
