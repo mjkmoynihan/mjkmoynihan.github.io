@@ -23,7 +23,7 @@ Work experience
 
 * Summer 2019: Apple Inc 
   * PhD Research Intern
-  * Duties included: Supporting research and development for ARKit features
+  * Duties included: Supporting research and development for ARKit
   
 Expertise
 ======
