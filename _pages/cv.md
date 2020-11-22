@@ -11,21 +11,19 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.Sc. in Physics, Dublin City University, 2015
+* M.Sc. in Electronic Systems, Dublin City University, 2017
+* Ph.D in Computer Vision, Trinity College Dublin, 2021 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2017: Computer Vision Engineer
+  * HP Inc
+  * Duties included: Designing and maintaining computer vision solutions for product line quality control
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Summer 2019: Research Intern 
+  * Apple Inc
+  * Duties included: Supporting research and development for ARKit features
   
 Skills
 ======
